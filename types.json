@@ -1,100 +1,58 @@
 [
     {
-        "code": "agenda",
+        "code": "mage",
         "is_subtype": false,
-        "name": "Agenda",
+        "name": "Mage",
         "position": 1,
-        "side_code": "corp"
+        "side_code": "mage"
     },
     {
-        "code": "asset",
+        "code": "equipment",
         "is_subtype": false,
-        "name": "Asset",
+        "name": "Equipment",
         "position": 2,
-        "side_code": "corp"
+        "side_code": "mage"
     },
     {
-        "code": "barrier",
+        "code": "conjurations",
         "is_subtype": true,
-        "name": "Barrier",
+        "name": "Conjurations",
         "position": 5,
-        "side_code": "corp"
+        "side_code": "mage"
     },
     {
-        "code": "code-gate",
+        "code": "terrain",
         "is_subtype": true,
-        "name": "Code Gate",
+        "name": "Conjuration-Terrain",
         "position": 6,
-        "side_code": "corp"
+        "side_code": "mage"
     },
     {
-        "code": "event",
+        "code": "creature",
         "is_subtype": false,
-        "name": "Event",
+        "name": "Creature",
         "position": 11,
-        "side_code": "runner"
+        "side_code": "mage"
     },
     {
-        "code": "hardware",
+        "code": "enchantment",
         "is_subtype": false,
-        "name": "Hardware",
+        "name": "Enchantment",
         "position": 12,
-        "side_code": "runner"
+        "side_code": "mage"
     },
     {
-        "code": "ice",
+        "code": "incantations",
         "is_subtype": false,
-        "name": "ICE",
+        "name": "Incantations",
         "position": 8,
-        "side_code": "corp"
+        "side_code": "mage"
     },
     {
-        "code": "icebreaker",
-        "is_subtype": true,
-        "name": "Icebreaker",
+        "code": "attack",
+        "is_subtype": false,
+        "name": "Attack",
         "position": 14,
-        "side_code": "runner"
+        "side_code": "mage"
     },
-    {
-        "code": "identity",
-        "is_subtype": false,
-        "name": "Identity",
-        "position": 0,
-        "side_code": null
-    },
-    {
-        "code": "operation",
-        "is_subtype": false,
-        "name": "Operation",
-        "position": 4,
-        "side_code": "corp"
-    },
-    {
-        "code": "program",
-        "is_subtype": false,
-        "name": "Program",
-        "position": 15,
-        "side_code": "runner"
-    },
-    {
-        "code": "resource",
-        "is_subtype": false,
-        "name": "Resource",
-        "position": 13,
-        "side_code": "runner"
-    },
-    {
-        "code": "sentry",
-        "is_subtype": true,
-        "name": "Sentry",
-        "position": 7,
-        "side_code": "corp"
-    },
-    {
-        "code": "upgrade",
-        "is_subtype": false,
-        "name": "Upgrade",
-        "position": 3,
-        "side_code": "corp"
-    }
 ]

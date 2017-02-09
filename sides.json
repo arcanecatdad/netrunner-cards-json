@@ -1,10 +1,6 @@
 [
     {
-        "code": "corp",
-        "name": "Corp"
+        "code": "mage",
+        "name": "Mage"
     },
-    {
-        "code": "runner",
-        "name": "Runner"
-    }
 ]
